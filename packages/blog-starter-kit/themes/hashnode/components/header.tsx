@@ -43,7 +43,7 @@ export const Header = (props: Props) => {
 						)}
 					>
 						<HeaderBlogSearch publication={publication} />
-						<Button as="a" href="#" type="primary" label="Sign up" />
+						<Button as="a" href="https://www.tadisec.com/newsletter" type="primary" label="Stay Up To Date" />
 					</div>
 				</div>
 
